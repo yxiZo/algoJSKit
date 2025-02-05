@@ -1,4 +1,4 @@
-# 项目名称：algoJSKit
+# algoJSKit
 
 ## 项目简介
 
